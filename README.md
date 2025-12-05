@@ -4,6 +4,9 @@ Ellen is an AI-powered companion designed to help young students explore their c
 
 It is especially helpful for **introverted students** who may feel uncomfortable asking questions in public or private. Ellen listens, understands, and responds through natural speech—providing a friendly and supportive learning experience.
 
+DEMO
+https://youtu.be/BNwnbwup5go
+
 ---
 
 ## ✨ Features
